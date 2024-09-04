@@ -2,31 +2,31 @@
   "title": "Work Experience",
   "list": [
     {
-      "name": "Foo company",
-      "position": "Web Developer",
-      "startDate": "2021.03",
+      "name": "doSul",
+      "position": "Software Developer",
+      "startDate": "2022.05",
       "endDate": "",
-      "description": "Foo company is social media company for every world",
+      "description": "It's a software house company.",
       "projects": [
         {
           "title": {
-            "text": "Foo Pay",
+            "text": "MeuMarketing",
             "githubLink": null,
             "otherLink": null
           },
-          "description": "Leading FE developers",
+          "description": "AI generated content Mobile App for politicians",
           "startDate": "2022.01",
           "endDate": "",
           "which": ["leading fe developers", "foster SEO"],
-          "techStack": ["TypeScript", "React", "Recoil"]
+          "techStack": ["JavaScript", "React Native", "Php"]
         },
         {
           "title": {
-            "text": "Comet land",
-            "githubLink": "https://github.com/hyesungoh/comet-land",
-            "otherLink": "https://comet-land-blog.vercel.app"
+            "text": "Rio Negrinho Empregos",
+            "githubLink": null,
+            "otherLink": null
           },
-          "description": "Monorepo for blog and resume",
+          "description": "Job posting website",
           "startDate": "2021.6",
           "endDate": "2021.12",
           "which": ["construct monorepo with turborepo", "design with NextUI"],
@@ -34,11 +34,187 @@
         },
         {
           "title": {
-            "text": "Foo Eat",
+            "text": "Manutenções ABPF",
             "githubLink": null,
             "otherLink": null
           },
-          "description": "Leading FE developers",
+          "description": "Web system to keep track of railway system maintenance",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Sócios ABPF",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Web system to automate ABPF members payments",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Erede Integration",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Itaú bank payment integration",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Arateck",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Metallurgy and painting company website",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Mangueplast",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Sales representative app",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Circuíto das Araucárias",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Bicycle circuit navigation app",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Passseios de Trem",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Train ride ticket e-commerce",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Nosso Jardim",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Rio Negrinho city hall website",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "AdvIntegra",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Fiscal documents correction web system",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Organize Decorando",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "E-commerce",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "PocketAir",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "App to help air compressors maintenance",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "develop comet-land",
+            "lorem lorem",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Feistock",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Furniture fair website",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [

@@ -5,14 +5,15 @@ import { Project } from '../../../_content/Work-Experience';
 import Li from '../Li';
 import TitleTooltip from '../TitleTooltip';
 
-function Project({ title, description, startDate, endDate, which, techStack }: Project) {
+function Project({ title, description, which, techStack }: Project) {
   const { theme } = useTheme();
 
   return (
     <Div>
       <TitleTooltip {...title} />
+
       <small>
-        {startDate} ~ {endDate}
+        <br />
       </small>
       <span>{description}</span>
       {which.length > 0 && (
