@@ -2,11 +2,11 @@
   "title": "Work Experience",
   "list": [
     {
-      "name": "doSul",
+      "name": "doSul Digital",
       "position": "Software Developer",
-      "startDate": "2022.05",
-      "endDate": "",
-      "description": "It's a software house company.",
+      "startDate": "2022.04",
+      "endDate": "2024.07",
+      "description": "Software house company.",
       "projects": [
         {
           "title": {
@@ -18,7 +18,7 @@
           "startDate": "2022.01",
           "endDate": "",
           "which": ["leading fe developers", "foster SEO"],
-          "techStack": ["JavaScript", "React Native", "Php"]
+          "techStack": ["React Native", "Php", "JavaScript"]
         },
         {
           "title": {
@@ -30,7 +30,7 @@
           "startDate": "2021.6",
           "endDate": "2021.12",
           "which": ["construct monorepo with turborepo", "design with NextUI"],
-          "techStack": ["TypeScript", "React", "Next.js", "Turborepo", "NextUI", "Emotion"]
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -46,7 +46,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -62,7 +62,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -78,7 +78,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["Php", "Docker"]
         },
         {
           "title": {
@@ -94,7 +94,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["WordPress", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -110,7 +110,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React Native", "Php", "JavaScript"]
         },
         {
           "title": {
@@ -126,7 +126,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React Native", "Php", "JavaScript"]
         },
         {
           "title": {
@@ -142,7 +142,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -158,7 +158,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -174,7 +174,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -190,7 +190,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -206,7 +206,7 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React Native", "Php", "JavaScript", "Css", "Html"]
         },
         {
           "title": {
@@ -222,16 +222,16 @@
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
-          "techStack": null
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
         }
       ]
     },
     {
-      "name": "Bar company",
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Bar company is very awesome",
+      "name": "Uktech",
+      "position": "Intern",
+      "startDate": "2021.04",
+      "endDate": "2022.04",
+      "description": "IT support, office suplies and software licensing company.",
       "projects": [
         {
           "title": {

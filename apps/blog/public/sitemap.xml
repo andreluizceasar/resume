@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://comet-land-blog.vercel.app</loc>
+    <loc>https://blog.andreceasar.com</loc>
   </url>
 
   <url>
-    <loc>https://comet-land-blog.vercel.app/bar</loc>
+    <loc>https://blog.andreceasar.com/bar</loc>
   </url>
   <url>
-    <loc>https://comet-land-blog.vercel.app/foo</loc>
+    <loc>https://blog.andreceasar.com/foo</loc>
   </url>
   <url>
-    <loc>https://comet-land-blog.vercel.app/how-to-start</loc>
+    <loc>https://blog.andreceasar.com/how-to-start</loc>
   </url>
   <url>
-    <loc>https://comet-land-blog.vercel.app/kbar-support</loc>
+    <loc>https://blog.andreceasar.com/kbar-support</loc>
   </url>
   <url>
-    <loc>https://comet-land-blog.vercel.app/markdown</loc>
+    <loc>https://blog.andreceasar.com/markdown</loc>
   </url>
 
   <url>
-    <loc>https://comet-land-blog.vercel.app/category/Bar</loc>
+    <loc>https://blog.andreceasar.com/category/Bar</loc>
   </url>
   <url>
-    <loc>https://comet-land-blog.vercel.app/category/Foo</loc>
+    <loc>https://blog.andreceasar.com/category/Foo</loc>
   </url>
   <url>
-    <loc>https://comet-land-blog.vercel.app/category/Guide</loc>
+    <loc>https://blog.andreceasar.com/category/Guide</loc>
   </url>
 </urlset>
