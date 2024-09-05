@@ -35,6 +35,7 @@ const H3 = styled(Text)`
 
   font-size: 2rem;
   font-weight: bold;
+  padding-right: 2px;
 `;
 
 const ButtonWrapper = styled.div`

@@ -42,6 +42,7 @@ const H1 = styled(Text)`
   font-size: 3rem;
   line-height: 3rem;
   margin-bottom: 8px;
+  padding-right: 1px;
 `;
 
 const DescriptionWrapper = styled.div`

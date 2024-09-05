@@ -6,388 +6,44 @@
     version="2.0"
   >
     <channel>
-        <title><![CDATA[Comet log]]></title>
+        <title><![CDATA[Quarry]]></title>
         <link>https://blog.andreceasar.com</link>
         <description>
-          <![CDATA[I like to share my knowledge.]]>
+          <![CDATA[I like to talk.]]>
         </description>
         <language>en</language>
-        <lastBuildDate>2022-03-26</lastBuildDate>
+        <lastBuildDate>2022-09-05</lastBuildDate>
         <item>
-    <title><![CDATA[Comet land guide]]></title>
-    <link>https://blog.andreceasar.com/how-to-start</link>
-    <pubDate>2022-03-26</pubDate>
-    <guid isPermaLink="false">https://blog.andreceasar.com/how-to-start</guid>
+    <title><![CDATA[Mechanisms of Blocking Social Network X in Brazil]]></title>
+    <link>https://blog.andreceasar.com/mechanisms-of-blocking-social-network-x-in-brazil</link>
+    <pubDate>2022-09-05</pubDate>
+    <guid isPermaLink="false">https://blog.andreceasar.com/mechanisms-of-blocking-social-network-x-in-brazil</guid>
     <description>
-    <![CDATA[how to start]]>
+    <![CDATA[understanding the Technical and Operational Processes Involved]]>
     </description>
     <content:encoded>
-      <![CDATA[<p><a href="https://lgtm.com/projects/g/hyesungoh/comet-land/alerts/" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/lgtm/alerts/g/hyesungoh/comet-land.svg?logo=lgtm&#x26;logoWidth=18" alt="Total alerts"></a> <a href="https://lgtm.com/projects/g/hyesungoh/comet-land/context:javascript" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/lgtm/grade/javascript/g/hyesungoh/comet-land.svg?logo=lgtm&#x26;logoWidth=18" alt="Language grade: JavaScript"></a> <a href="https://github.com/hyesungoh/comet-land/actions/workflows/CI.yml" target="_blank" rel="noopener noreferer"><img src="https://github.com/hyesungoh/comet-land/actions/workflows/CI.yml/badge.svg" alt="Continious Intergration"></a> <a href="https://codecov.io/gh/hyesungoh/comet-land" target="_blank" rel="noopener noreferer"><img src="https://codecov.io/gh/hyesungoh/comet-land/branch/main/graph/badge.svg?token=TA7LT3RQ1P" alt="codecov"></a> <a href="https://dashboard.cypress.io/projects/yiddyz/runs" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/yiddyz&#x26;style=flat&#x26;logo=cypress" alt="blog"></a> <a href="https://dashboard.cypress.io/projects/inc4yo/runs" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/inc4yo&#x26;style=flat&#x26;logo=cypress" alt="resume"></a></p>
-<p><img src="https://user-images.githubusercontent.com/26461307/159371599-95b2acd5-e5eb-482c-9ead-d8f601f034b5.png" alt="comet-land-blog"></p>
-<h3 id="blog-demo"><a href="https://comet-land-blog.vercel.app/" target="_blank" rel="noopener noreferer">BLOG DEMO</a></h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/160653172-c56a3b64-dfa9-4708-bf95-fca2fff47964.png" alt="comet-land-resume"></p>
-<h3 id="resume-demo"><a href="https://comet-land-resume.vercel.app/" target="_blank" rel="noopener noreferer">RESUME DEMO</a></h3>
-<p>Blog and Resume template with turborepo</p>
-<p>한국어 문서는 <a href="https://github.com/hyesungoh/hyesungoh-land/tree/main/_docs/ko-readme.md" target="_blank" rel="noopener noreferer">다음 링크</a>에서 확인하실 수 있습니다.</p>
-<h2 id="blog-feature" class="heading">Blog Feature</h2>
-<p><img src="https://user-images.githubusercontent.com/26461307/159372336-e42c1a9c-9915-4d05-9e51-4882d681dc80.gif" alt="postGif"></p>
-<ul>
-<li>👔 Code highlight with line-highlight, line-numbers</li>
-<li>🎨 Design with <a href="https://nextui.org/" target="_blank" rel="noopener noreferer">NextUI</a></li>
-<li>🍽 Table of contents</li>
-<li>🎩 Dark mode</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/26461307/159372344-d628b817-d7f5-4322-813e-3468a62e79d6.gif" alt="kbarGif"></p>
-<ul>
-<li>⌨️ Search with <a href="https://kbar.vercel.app/" target="_blank" rel="noopener noreferer">KBar</a></li>
-<li>🔨 Configurable</li>
-<li>🔊 <a href="https://utteranc.es/" target="_blank" rel="noopener noreferer">Utterances</a> Comment</li>
-<li>🔭 Google Analytics</li>
-<li>🔥 Hotjar</li>
-<li>🏄 Lighthouse score</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/26461307/161536154-b85caf9f-0f73-4224-a1e7-540723916ff7.gif" alt="blog lighthouse score"></p>
-<h2 id="resume-feature" class="heading">Resume Feature</h2>
-<ul>
-<li>🎨 Design with <a href="https://nextui.org/" target="_blank" rel="noopener noreferer">NextUI</a></li>
-<li>🎩 Dark mode</li>
-<li>⌨️ Contact with <a href="https://kbar.vercel.app/" target="_blank" rel="noopener noreferer">KBar</a></li>
-<li>🔨 Configurable</li>
-<li>🔭 Google Analytics</li>
-<li>🔥 Hotjar</li>
-<li>🏄 Lighthouse score</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/26461307/161536162-63278484-ca52-42ed-89d4-951cd31e42c1.gif" alt="resume lighthouse score"></p>
-<h2 id="how-to-start" class="heading">How to start</h2>
-<p><code>comet-land</code> has own generate package <a href="https://github.com/hyesungoh/create-comet-land" target="_blank" rel="noopener noreferer"><code>create-comet-land</code></a></p>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line">npx create-comet-land
-</span><span class="code-line"><span class="token comment"># or</span>
-</span><span class="code-line"><span class="token function">yarn</span> create comet-land
-</span></code></pre>
-<blockquote>
-<p>Or using Fork or clone this repo</p>
-</blockquote>
-<ol>
-<li>Install dependencies</li>
-</ol>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span>
-</span></code></pre>
-<ol start="2">
-<li>Start Turbo !</li>
-</ol>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span> turbo run dev
-</span><span class="code-line"><span class="token comment"># or just</span>
-</span><span class="code-line"><span class="token function">yarn</span> dev
-</span></code></pre>
-<ol start="4">
-<li>Now you can see blog at <code>localhost:3000</code>, resume at <code>localhost:3001</code></li>
-</ol>
-<h2 id="how-to-configuration" class="heading">How to configuration</h2>
-<p>Please see <code>packages/core/constants</code> directory.</p>
-<p>and you can reconfigure at that directory's variable</p>
-<ul>
-<li>Analytics directory
-<ul>
-<li>GA ID</li>
-<li>Hotjar ID</li>
-</ul>
-</li>
-<li>Colors directory
-<ul>
-<li>color schema</li>
-</ul>
-</li>
-<li>General directory
-<ul>
-<li>author image</li>
-<li>default open-graph image</li>
-<li>favicon</li>
-</ul>
-</li>
-<li>SocialMedia directory
-<ul>
-<li>github</li>
-<li>instagram</li>
-<li>facebook</li>
-<li>linkedin</li>
-<li>twitter</li>
-</ul>
-</li>
-</ul>
-<p>and please check <code>apps/blog/_config/index.json</code> and <code>apps/resume/_config/index.json</code>.</p>
-<p>This files are placing each app's configuration variable.</p>
-<h2 id="how-to-use-it" class="heading">How to use it</h2>
-<p>please read following link.</p>
-<ul>
-<li><a href="https://github.com/hyesungoh/hyesungoh-land/tree/main/_docs/en-blog.md" target="_blank" rel="noopener noreferer">how to add blog post</a></li>
-<li><a href="https://github.com/hyesungoh/hyesungoh-land/tree/main/_docs/en-resume.md" target="_blank" rel="noopener noreferer">how to custom resume</a></li>
-</ul>
-<h2 id="how-to-deploy-with-vercel" class="heading">How to deploy with vercel</h2>
-<h3 id="1-import-git-repository">1. Import git repository</h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278351-7b82fcbe-e6db-46bd-93f4-10e8524ef2bf.gif" alt="deploy step 1"></p>
-<h3 id="2-select-framework-preset-to-nextjs">2. Select framework preset to <code>Next.js</code></h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278363-509b3d69-f692-4458-8bc2-62173eef5e7e.gif" alt="deploy step 2"></p>
-<h3 id="3-set-root-directory-to-appsblog-or-appsresume">3. Set root directory to <code>apps/blog</code> or <code>apps/resume</code></h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278370-1651b4d7-e561-44df-8a62-a283450773d9.gif" alt="deploy step 3"></p>
-<h3 id="4-set-build-command">4. Set build command</h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278380-659ba348-7952-4875-9e19-0a006ad57c1a.gif" alt="deploy step 4"></p>
-<ul>
-<li>blog build command</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> <span class="token punctuation">..</span>/<span class="token punctuation">..</span> <span class="token operator">&#x26;&#x26;</span> npx turbo run build --scope<span class="token operator">=</span>blog --include-dependencies --no-deps
-</span></code></pre>
-<ul>
-<li>resume build command</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> <span class="token punctuation">..</span>/<span class="token punctuation">..</span> <span class="token operator">&#x26;&#x26;</span> npx turbo run build --scope<span class="token operator">=</span>resume --include-dependencies --no-deps
-</span></code></pre>
-<h3 id="5-click-the-deploy-button-">5. Click the Deploy button! 🎉</h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278617-82982395-d1fc-46f1-8f96-f7cb7bae95d9.png" alt="click the deploy button"></p>
-<h3 id="more-information">More information</h3>
-<p>This project using <code>turborepo</code>.</p>
-<p>so, you can find more information at this <a href="https://vercel.com/docs/concepts/monorepos/turborepo" target="_blank" rel="noopener noreferer">vercel guide</a>.</p>
-<h2 id="how-to-add-more-packages" class="heading">How to add more packages</h2>
-<ul>
-<li>scope packages</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> where-you-want
-</span><span class="code-line"><span class="token function">yarn</span> <span class="token function">add</span> package-name
-</span></code></pre>
-<ul>
-<li>global packages</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span> <span class="token function">add</span> package-name -W
-</span></code></pre>
-<ul>
-<li>global dev packages</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span> <span class="token function">add</span> package-name -DW
-</span></code></pre>
-<h2 id="trouble-shootings" class="heading">Trouble shootings</h2>
-<p>check <a href="https://github.com/hyesungoh/comet-land/wiki/Trouble-Shooting" target="_blank" rel="noopener noreferer">this wiki</a> please! it might be help</p>
-<h2 id="use-case" class="heading">Use Case</h2>
-<ul>
-<li><a href="https://github.com/hyesungoh/hyesungoh.xyz" target="_blank" rel="noopener noreferer">hyesungoh.xyz</a></li>
-</ul>
-<h2 id="inspired" class="heading">Inspired</h2>
-<p>I inspired below blogs and resume.</p>
-<ul>
-<li><a href="https://overreacted.io/" target="_blank" rel="noopener noreferer">Overreacted</a></li>
-<li><a href="https://yceffort.kr/" target="_blank" rel="noopener noreferer">Yceffort</a></li>
-<li><a href="https://gatsby-starter-bee.netlify.app/" target="_blank" rel="noopener noreferer">gatsby-starter-bee</a></li>
-<li><a href="https://vallista.kr/" target="_blank" rel="noopener noreferer">vallista-land</a></li>
-<li><a href="https://hyunseob.github.io/resume/" target="_blank" rel="noopener noreferer">hyunseob.github.io/resume</a></li>
-</ul>
-<h2 id="license" class="heading">License</h2>
-<p>MIT</p>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Markdown Examples]]></title>
-    <link>https://blog.andreceasar.com/markdown</link>
-    <pubDate>2022-03-01</pubDate>
-    <guid isPermaLink="false">https://blog.andreceasar.com/markdown</guid>
-    <description>
-    <![CDATA[example for writing markdown]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<h2 id="h2-heading" class="heading">h2 heading</h2>
-<h3 id="h3-heading">h3 heading</h3>
-<h4 id="h4-heading">h4 heading</h4>
-<h5 id="h5-heading">h5 heading</h5>
-<h6 id="h6-heading">h6 heading</h6>
-<h2 id="emphasis" class="heading">Emphasis</h2>
-<p><strong>This is bold text</strong></p>
-<p><em>This is italic text</em></p>
-<p><del>this is delete</del></p>
-<h2 id="blockquotes" class="heading">Blockquotes</h2>
-<blockquote>
-<p>Develop. Preview. Ship. – Vercel</p>
-</blockquote>
-<h3 id="nested">nested</h3>
-<blockquote>
-<blockquote>
-<p>great power comes great responsibility</p>
-<p>— at spider man</p>
-</blockquote>
-<p>This is <strong>awesome</strong>.</p>
-<p>— hyesungoh</p>
-</blockquote>
-<h2 id="lists" class="heading">Lists</h2>
-<p>Unordered</p>
-<ul>
-<li>Lorem ipsum dolor.
-<ul>
-<li>foo
-<ul>
-<li>bar</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>sit amet consectetur adipisicing elit.</li>
-<li>Iure, delectus.</li>
-</ul>
-<p>Ordered</p>
-<ol>
-<li>Lorem ipsum dolor.
-<ol>
-<li>lorem
-<ol>
-<li>foo</li>
-</ol>
-</li>
-</ol>
-</li>
-<li>sit amet consectetur adipisicing elit.</li>
-<li>Iure, delectus.</li>
-</ol>
-<h2 id="code" class="heading">Code</h2>
-<p>Inline <code>code</code></p>
-<pre class="language-js"><code class="language-js code-highlight"><span class="code-line"><span class="token keyword module">import</span> <span class="token imports">styled</span> <span class="token keyword module">from</span> <span class="token string">'@emotion/styled'</span><span class="token punctuation">;</span>
-</span><span class="code-line">
-</span><span class="code-line"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Foo</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> bar <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-</span><span class="code-line">  <span class="token keyword control-flow">return</span> <span class="token punctuation">(</span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span>div<span class="token operator">></span>
-</span><span class="code-line">      <span class="token operator">&#x3C;</span><span class="token constant">H1</span><span class="token operator">></span><span class="token maybe-class-name">Comet</span><span class="token operator">-</span>land<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token constant">H1</span><span class="token operator">></span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>div<span class="token operator">></span>
-</span><span class="code-line">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
-</span><span class="code-line"><span class="token punctuation">}</span>
-</span><span class="code-line">
-</span><span class="code-line"><span class="token keyword">const</span> <span class="token constant">H1</span> <span class="token operator">=</span> styled<span class="token punctuation">.</span><span class="token property-access">h1</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token css language-css">
-</span></span></span><span class="code-line"><span class="token template-string"><span class="token css language-css">  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token color">red</span><span class="token punctuation">;</span>
-</span></span></span><span class="code-line"><span class="token template-string"><span class="token css language-css"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
-</span></code></pre>
-<p>with line highlight</p>
-<pre class="language-js"><code class="language-js code-highlight"><span class="code-line highlight-line"><span class="token keyword module">import</span> <span class="token imports">styled</span> <span class="token keyword module">from</span> <span class="token string">'@emotion/styled'</span><span class="token punctuation">;</span>
-</span><span class="code-line">
-</span><span class="code-line"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Foo</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> bar <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-</span><span class="code-line">  <span class="token keyword control-flow">return</span> <span class="token punctuation">(</span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span>div<span class="token operator">></span>
-</span><span class="code-line">      <span class="token operator">&#x3C;</span><span class="token constant">H1</span><span class="token operator">></span><span class="token maybe-class-name">Comet</span><span class="token operator">-</span>land<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token constant">H1</span><span class="token operator">></span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>div<span class="token operator">></span>
-</span><span class="code-line">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
-</span><span class="code-line"><span class="token punctuation">}</span>
-</span><span class="code-line">
-</span><span class="code-line highlight-line"><span class="token keyword">const</span> <span class="token constant">H1</span> <span class="token operator">=</span> styled<span class="token punctuation">.</span><span class="token property-access">h1</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token css language-css">
-</span></span></span><span class="code-line highlight-line"><span class="token template-string"><span class="token css language-css">  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token color">red</span><span class="token punctuation">;</span>
-</span></span></span><span class="code-line highlight-line"><span class="token template-string"><span class="token css language-css"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
-</span></code></pre>
-<p>with line number</p>
-<pre class="language-js"><code class="language-js code-highlight"><span class="code-line line-number highlight-line" line="1"><span class="token keyword module">import</span> <span class="token imports">styled</span> <span class="token keyword module">from</span> <span class="token string">'@emotion/styled'</span><span class="token punctuation">;</span>
-</span><span class="code-line line-number" line="2">
-</span><span class="code-line line-number highlight-line" line="3"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Foo</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> bar <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-</span><span class="code-line line-number" line="4">  <span class="token keyword control-flow">return</span> <span class="token punctuation">(</span>
-</span><span class="code-line line-number" line="5">    <span class="token operator">&#x3C;</span>div<span class="token operator">></span>
-</span><span class="code-line line-number" line="6">      <span class="token operator">&#x3C;</span><span class="token constant">H1</span><span class="token operator">></span><span class="token maybe-class-name">Comet</span><span class="token operator">-</span>land<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token constant">H1</span><span class="token operator">></span>
-</span><span class="code-line line-number" line="7">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>div<span class="token operator">></span>
-</span><span class="code-line line-number" line="8">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
-</span><span class="code-line line-number" line="9"><span class="token punctuation">}</span>
-</span><span class="code-line line-number" line="10">
-</span><span class="code-line line-number" line="11"><span class="token keyword">const</span> <span class="token constant">H1</span> <span class="token operator">=</span> styled<span class="token punctuation">.</span><span class="token property-access">h1</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token css language-css">
-</span></span></span><span class="code-line line-number" line="12"><span class="token template-string"><span class="token css language-css">  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token color">red</span><span class="token punctuation">;</span>
-</span></span></span><span class="code-line line-number" line="13"><span class="token template-string"><span class="token css language-css"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
-</span></code></pre>
-<h2 id="links" class="heading">Links</h2>
-<ul>
-<li><a href="https://nextjs.org" target="_blank" rel="noopener noreferer">Next.js</a></li>
-<li><a href="http://vercel.com" target="_blank" rel="noopener noreferer">Vercel</a></li>
-</ul>
-<h3 id="autolink">Autolink</h3>
-<p><a href="http://www.example.com" target="_blank" rel="noopener noreferer">www.example.com</a>, <a href="https://example.com" target="_blank" rel="noopener noreferer">https://example.com</a>, and <a href="mailto:contact@example.com">contact@example.com</a>.</p>
-<h2 id="footnote" class="heading">Footnote</h2>
-<p>A note<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
-<h2 id="table" class="heading">Table</h2>
-<table>
-<thead>
-<tr>
-<th align="left">Syntax</th>
-<th align="center">Description</th>
-<th align="right">Test Text</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">Header</td>
-<td align="center">Title</td>
-<td align="right">Here's this</td>
-</tr>
-<tr>
-<td align="left">Paragraph</td>
-<td align="center">Text</td>
-<td align="right">And more</td>
-</tr>
-<tr>
-<td align="left">Strikethrough</td>
-<td align="center"></td>
-<td align="right"><del>Text</del></td>
-</tr>
-</tbody>
-</table>
-<h2 id="tasklist" class="heading">Tasklist</h2>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" disabled> to do</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> done</li>
-</ul>
-<section data-footnotes class="footnotes"><h2 id="footnote-label" class="sr-only heading">Footnotes</h2>
-<ol>
-<li id="user-content-fn-1">
-<p>Big note. <a href="#user-content-fnref-1" data-footnote-backref class="data-footnote-backref" aria-label="Back to content">↩</a></p>
-</li>
-</ol>
-</section>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Support KBar]]></title>
-    <link>https://blog.andreceasar.com/kbar-support</link>
-    <pubDate>2022-02-28</pubDate>
-    <guid isPermaLink="false">https://blog.andreceasar.com/kbar-support</guid>
-    <description>
-    <![CDATA[please press CMD + K!]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<p><strong>Comet-land</strong> support <a href="https://kbar.vercel.app/" target="_blank" rel="noopener noreferer">Kbar</a></p>
-<ul>
-<li>for searching post,</li>
-<li>visiting specific category,</li>
-<li>link to social media</li>
-</ul>
-<h2 id="hot-to-use-it" class="heading">hot to use it</h2>
-<p>just press <code>CMD + k</code></p>
-<blockquote>
-<p>window is <code>Cntl + K</code></p>
-</blockquote>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Foo]]></title>
-    <link>https://blog.andreceasar.com/foo</link>
-    <pubDate>2022-01-01</pubDate>
-    <guid isPermaLink="false">https://blog.andreceasar.com/foo</guid>
-    <description>
-    <![CDATA[foo foo foo]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<h2 id="foo" class="heading">foo</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="foofoo" class="heading">foofoo</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="foofoofoo" class="heading">foofoofoo</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Bar]]></title>
-    <link>https://blog.andreceasar.com/bar</link>
-    <pubDate>2021-12-01</pubDate>
-    <guid isPermaLink="false">https://blog.andreceasar.com/bar</guid>
-    <description>
-    <![CDATA[bar bar bar]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<h2 id="bar" class="heading">bar</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="barbar" class="heading">barbar</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="barbarbar" class="heading">barbarbar</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>]]>
+      <![CDATA[<p><img src="/assets/blog/mechanisms-of-blocking-social-network-x-in-brazil/twitter.jpg" alt="Phone with twitter and facebook icons"></p>
+<p>The blocking of social network X in Brazil involves a series of technical and operational processes aimed at restricting access to the platform. Below, we detail how these mechanisms work.</p>
+<h2 id="communication-with-service-providers" class="heading">Communication with Service Providers</h2>
+<p>Once the need for a block is established, the <strong>National Telecommunications Agency (Anatel)</strong> notifies telecommunications operators and internet service providers. This communication is crucial for the companies to follow the established guidelines.</p>
+<h2 id="technical-implementation" class="heading">Technical Implementation</h2>
+<h3 id="1-ip-address-blocking">1. IP Address Blocking</h3>
+<p>The most common method for blocking access to a social network is through IP address blocking. This means that operators configure their systems to prevent users from accessing the IP addresses associated with the platform. When a user tries to access the social network, the request is denied.</p>
+<h3 id="2-dns-modifications">2. DNS Modifications</h3>
+<p>Another technique used is the modification of the Domain Name System (DNS). When a user attempts to access a site, they typically use a domain name (like x.com), which is converted into an IP address via DNS. By reconfiguring the DNS, operators can prevent the domain of the social network from being resolved, resulting in error pages for users.</p>
+<h3 id="3-traffic-route-reconfiguration">3. Traffic Route Reconfiguration</h3>
+<p>In cases where the platform uses multiple IP addresses, operators may need to reconfigure traffic routes. This involves technical adjustments to ensure that content from the social network is not accessible from non-blocked addresses.</p>
+<h2 id="monitoring-and-verification" class="heading">Monitoring and Verification</h2>
+<p>After implementing the block, operators are responsible for monitoring the effectiveness of the measures taken. Anatel can conduct checks to ensure that access to the social network is indeed restricted.</p>
+<h2 id="challenges-and-implications-of-the-block" class="heading">Challenges and Implications of the Block</h2>
+<h3 id="use-of-vpns">Use of VPNs</h3>
+<p>One of the main challenges faced in implementing blocks is the use of VPNs (Virtual Private Networks). These tools allow users to bypass restrictions by simulating access from another geographical location. This makes the block less effective and raises questions about the operators' ability to control access.</p>
+<h3 id="variety-of-technologies">Variety of Technologies</h3>
+<p>The technologies used to circumvent blocks are numerous and varied. In addition to VPNs, users may employ external DNS servers or proxies, further complicating operators' tasks.</p>
+<h3 id="legal-and-social-implications">Legal and Social Implications</h3>
+<p>Blocking digital platforms raises issues regarding freedom of expression and users' rights. The social impact of such restrictions is significant, as it can limit communication and access to information.</p>
+<h2 id="conclusion" class="heading">Conclusion</h2>
+<p>The blocking of social network X in Brazil involves a series of complex technical procedures, with active participation from telecommunications operators and Anatel. Despite the implemented measures, the use of technologies to circumvent these restrictions represents an ongoing challenge, reflecting the dynamics between control and freedom in the digital age.</p>]]>
     </content:encoded>
   </item>
     </channel>
