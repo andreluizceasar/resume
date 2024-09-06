@@ -3,40 +3,78 @@
   "list": [
     {
       "name": "Soft skill",
-      "descriptions": ["I like to talk"]
+      "descriptions": [
+        "It's easy for me to express what I'm thinking in a clear way."
+      ]
     },
     {
       "name": "HTML/CSS",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio."
+        "When I see a design or think of something I want to build it's clear to me how the markup and styling are gonna look."
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Sql",
+      "descriptions": [
+        "I can write from the simplest to the most complex queries, with subqueries and multiple joins."
+      ]
+    },
+    {
+      "name": "NextJs",
+      "descriptions": [
+        "I know all the nuances of having React rendered on the server and separiting server and client Javascript code."
+      ]
+    },
+    {
+      "name": "React",
+      "descriptions": [
+        "I have a fluid experience using it's structure to abstract problems."
+      ]
+    },
+    {
+      "name": "React Native",
+      "descriptions": [
+        "In adition to applying all my knowlege from React I am very familiar with it's peculiarities.",
+        "It's very clear to me the process of compiling and publishing an app to both App Store and Google Play Store."
+      ]
+    },
+    {
+      "name": "Php Slim",
       "descriptions": [
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
         "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
       ]
     },
     {
-      "name": "TypeScript",
-      "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam harum, nihil quidem ducimus explicabo soluta odio ut voluptatem praesentium."
-      ]
-    },
-    {
-      "name": "Dev Ops",
+      "name": "Wordpress",
       "descriptions": [
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
         "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
       ]
     },
     {
-      "name": "ETC",
+      "name": "NodeJs/Express",
+      "descriptions": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "name": "Java",
+      "descriptions": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "name": "C/C++",
+      "descriptions": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+      ]
+    },
+    {
+      "name": "Deployment",
       "descriptions": [
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
         "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
