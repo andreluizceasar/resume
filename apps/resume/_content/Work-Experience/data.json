@@ -12,13 +12,18 @@
           "title": {
             "text": "MeuMarketing",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://play.google.com/store/apps/details?id=com.dosul.digital.meumarketing"
           },
           "description": "AI generated content Mobile App for politicians",
           "startDate": "2022.01",
           "endDate": "",
-          "which": ["leading fe developers", "foster SEO"],
-          "techStack": ["React Native", "Php", "JavaScript"]
+          "which": [
+            "UI/UX design", 
+            "sign-up process in chat format", 
+            "app pages",
+            "API integration"
+          ],
+          "techStack": ["React Native", "Php", "JavaScript", "Sql"]
         },
         {
           "title": {
@@ -29,8 +34,12 @@
           "description": "Job posting website",
           "startDate": "2021.6",
           "endDate": "2021.12",
-          "which": ["construct monorepo with turborepo", "design with NextUI"],
-          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
+          "which": [
+            "backend and database", 
+            "API integration",
+            "template customization"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
@@ -42,11 +51,10 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "backend and database",
+            "dashboard"
           ],
-          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
@@ -58,11 +66,11 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "backend and database",
+            "dashboard",
+            "asaas payment link integration"
           ],
-          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
@@ -74,9 +82,8 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "cardToken funtionality for existing php sdk",
+            "API integration"
           ],
           "techStack": ["Php", "Docker"]
         },
@@ -84,15 +91,15 @@
           "title": {
             "text": "Arateck",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://arateck.com.br/"
           },
           "description": "Metallurgy and painting company website",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "wordpress instalation",
+            "posts configuration",
+            "website pages"
           ],
           "techStack": ["WordPress", "Php", "JavaScript", "Css", "Html"]
         },
@@ -100,17 +107,17 @@
           "title": {
             "text": "Mangueplast",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://play.google.com/store/apps/details?id=com.dosul.digital.mangueplast"
           },
           "description": "Sales representative app",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "API integration",
+            "app pages",
+            "offline order support"
           ],
-          "techStack": ["React Native", "Php", "JavaScript"]
+          "techStack": ["React Native", "Php", "JavaScript", "Sql"]
         },
         {
           "title": {
@@ -122,43 +129,44 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "API integration",
+            "app pages",
+            "offline data display and progress saving"
           ],
-          "techStack": ["React Native", "Php", "JavaScript"]
+          "techStack": ["React Native", "Php", "JavaScript", "Sql"]
         },
         {
           "title": {
             "text": "Passseios de Trem",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://passeiosdetrem.com.br/"
           },
           "description": "Train ride ticket e-commerce",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "complex reports",
+            "bug fixes",
+            "new features"
           ],
-          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
             "text": "Nosso Jardim",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://nossojardimrionegrinho.com.br/"
           },
           "description": "Rio Negrinho city hall website",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "backend and database",
+            "dashboard",
+            "website pages",
+            "highly customized quiz"
           ],
-          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
@@ -170,59 +178,55 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "sped document correction feature",
+            "bug fixes"
           ],
-          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
             "text": "Organize Decorando",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://organizedecorando.com/"
           },
           "description": "E-commerce",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "social network login plugin instalation and configuration",
+            "client support"
           ],
-          "techStack": ["React", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["Magento", "React", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
             "text": "PocketAir",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://play.google.com/store/apps/details?id=dosul.digital.pocketair"
           },
           "description": "App to help air compressors maintenance",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "bug fixes"
           ],
-          "techStack": ["React Native", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React Native", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
             "text": "Feistock",
             "githubLink": null,
-            "otherLink": null
+            "otherLink": "https://feistock.com.br/"
           },
           "description": "Furniture fair website",
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "backend and database",
+            "dashboard",
+            "website pages"
           ],
-          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html"]
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
         }
       ]
     },
@@ -235,35 +239,20 @@
       "projects": [
         {
           "title": {
-            "text": "Bar Pay",
+            "text": "Power monitoring tool",
             "githubLink": null,
             "otherLink": null
           },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
+          "description": "mesh network to monitor equipment power consumption",
           "startDate": "2020.08",
           "endDate": "2021.03",
           "which": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
+            "circuit board chip programing",
+            "convertion of C/C++ library to Java",
+            "dashboard",
+            "embedded linux image backing"
           ],
-          "techStack": ["TypeScript", "React", "Recoil"]
-        },
-        {
-          "title": {
-            "text": "Bar Play",
-            "githubLink": null,
-            "otherLink": null
-          },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.03",
-          "endDate": "2020.08",
-          "which": [
-            "perspiciatis modi dolores libero tenetur nam.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing."
-          ],
-          "techStack": ["TypeScript", "React", "Recoil"]
+          "techStack": ["C", "C++", "Java", "Spring Boot", "JavaScript", "AngularJs"]
         }
       ]
     }
