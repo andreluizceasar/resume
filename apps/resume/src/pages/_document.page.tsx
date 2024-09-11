@@ -72,6 +72,13 @@ export default class ResumeDocument extends Document {
             ></script>
           )}
 
+          {/* for google ads */}
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4334671320321612"
+            crossOrigin="anonymous"
+          ></script>
+
           <GlobalStyle />
         </Head>
         <body>

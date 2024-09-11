@@ -14,7 +14,7 @@
       ]
     },
     {
-      "name": "Sql",
+      "name": "SQL",
       "descriptions": [
         "I can write from the simplest to the most complex queries, with subqueries and multiple joins."
       ]
@@ -22,13 +22,13 @@
     {
       "name": "NextJs",
       "descriptions": [
-        "I know all the nuances of having React rendered on the server and separiting server and client Javascript code."
+        "I know the nuances of having React rendered on the server and separating server and client Javascript code."
       ]
     },
     {
       "name": "React",
       "descriptions": [
-        "I have a fluid experience using it's structure to abstract problems."
+        "Fluid experience using it's structure to abstract problems."
       ]
     },
     {
@@ -41,43 +41,39 @@
     {
       "name": "Php Slim",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "I've written many REST APIs using php."
       ]
     },
     {
       "name": "Wordpress",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "I know how to install and serve wordpress using nginx.",
+        "I'm able to install plugins and themes, customize or create custom ones."
       ]
     },
     {
       "name": "NodeJs/Express",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "I'm confortable with using the knowledge I have from using javascript on the client on the server."
       ]
     },
     {
       "name": "Java",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "I've written a REST API with a service to read from a RaspberryPi serial port."
       ]
     },
     {
       "name": "C/C++",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "I've  written code to read, process and output data using the esp32 and arduino for IoT applications."
       ]
     },
     {
       "name": "Deployment",
       "descriptions": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, molestias.",
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        "I have the knowledge of how to merge branches, resolving different types of conflicts.",
+        "Familiarity with linux, hosting and environment configuration."
       ]
     }
   ]

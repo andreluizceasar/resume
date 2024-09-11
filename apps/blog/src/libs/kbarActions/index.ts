@@ -2,7 +2,7 @@ import { NextRouter } from 'next/router';
 import { IconActionType, socialActions } from 'core/constants';
 import { openExternalLink } from 'core/utils';
 
-import { resumeUrl } from '../../../_config';
+import { resumeUrl, websiteUrl } from '../../../_config';
 import categoryActions from './categories';
 import postActions from './posts';
 
@@ -51,6 +51,21 @@ function generateKbarAction(router: NextRouter) {
 
   if (typeof resumeUrl === 'string' && resumeUrl.length > 0) {
     kbarActions.push(resumeAction);
+  }
+
+  const websiteAction: IconActionType = {
+    id: 'website',
+    name: 'Website',
+    subtitle: websiteUrl,
+    section: 'Social',
+    shortcut: [],
+    keywords: 'website, info, projects',
+    icon: 'Sun',
+    perform: () => openExternalLink(websiteUrl),
+  };
+
+  if (typeof websiteUrl === 'string' && websiteUrl.length > 0) {
+    kbarActions.push(websiteAction);
   }
 
   return kbarActions;

@@ -97,7 +97,7 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "wordpress instalation",
+            "wordpress installation",
             "posts configuration",
             "website pages"
           ],
@@ -178,7 +178,7 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "sped document correction feature",
+            "SPED document correction feature",
             "bug fixes"
           ],
           "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
@@ -193,7 +193,7 @@
           "startDate": "2021.03",
           "endDate": "2021.06",
           "which": [
-            "social network login plugin instalation and configuration",
+            "social network login plugin installation and configuration",
             "client support"
           ],
           "techStack": ["Magento", "React", "Php", "JavaScript", "Css", "Html", "Sql"]
@@ -250,7 +250,9 @@
             "circuit board chip programing",
             "convertion of C/C++ library to Java",
             "dashboard",
-            "embedded linux image backing"
+            "embedded linux image backing",
+            "REST API using java",
+            "AngularJs web system"
           ],
           "techStack": ["C", "C++", "Java", "Spring Boot", "JavaScript", "AngularJs"]
         }

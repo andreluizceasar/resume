@@ -1,7 +1,7 @@
 import { IconActionType, socialActions } from 'core/constants';
 import { openExternalLink } from 'core/utils';
 
-import { blogUrl, email } from '../../../_config';
+import { blogUrl, email, websiteUrl } from '../../../_config';
 
 function generateKbarAction() {
   const KbarActions: IconActionType[] = [...socialActions];
@@ -10,6 +10,17 @@ function generateKbarAction() {
     if (typeof value !== 'string' || value.length < 1) return;
     KbarActions.unshift(action);
   }
+
+  unshiftWhenValid(websiteUrl, {
+    id: 'website',
+    name: 'Website',
+    subtitle: websiteUrl,
+    section: 'Social',
+    shortcut: [],
+    keywords: 'website, info, projects',
+    icon: 'Sun',
+    perform: () => openExternalLink(websiteUrl),
+  });
 
   unshiftWhenValid(blogUrl, {
     id: 'blog',
