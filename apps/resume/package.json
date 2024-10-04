@@ -14,7 +14,7 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch",
     "cypress": "cypress open",
-    "export": "next build && next export"
+    "export": "next build && output: export"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
