@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://resume.andreceasar.com/sitemap.xml
