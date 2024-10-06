@@ -8,7 +8,7 @@ on:
     branches: main
 
 env:
-  TYPE_OF_APP: blog
+  TYPE_OF_APP: resume
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [20.x]
 
     steps:
       - name: Checkout
