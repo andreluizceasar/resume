@@ -36,7 +36,7 @@ jobs:
           NEXT_PUBLIC_BASE_PATH: /andreceasar
 
       - name: Add .nojekyll file
-        run: touch apps/${{ env.TYPE_OF_APP }}/out/.nojekyll
+        run: touch apps/${{ env.TYPE_OF_APP }}/out/.nojekyll && echo 'resume.andreceasar.com' > ./out/CNAME
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.0
