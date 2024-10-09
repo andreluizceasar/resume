@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://resume.andreceasar.com</loc>
+    <loc>https://blog.andreceasar.com</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://blog.andreceasar.com/mechanisms-of-blocking-social-network-x-in-brazil</loc
+    >
+  </url>
+  <url>
+    <loc>https://blog.andreceasar.com/the-power-of-quantum-computing</loc>
+  </url>
+  <url>
+    <loc
+      >https://blog.andreceasar.com/unveiling-the-world-of-cryptocurrencies</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://blog.andreceasar.com/category/Technology</loc>
   </url>
 </urlset>
