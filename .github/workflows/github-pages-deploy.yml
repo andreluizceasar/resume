@@ -8,7 +8,7 @@ on:
     branches: main
 
 env:
-  TYPE_OF_APP: blog
+  TYPE_OF_APP: resume
 
 jobs:
   build:
