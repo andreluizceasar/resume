@@ -19,9 +19,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "export:blog": "cd apps/blog && yarn export",
     "export:resume": "cd apps/resume && yarn export",
-    "prepare": "husky install",
-    "static:resume": "cd apps/resume && yarn static",
-    "deploy:resume": "cd apps/resume && yarn deploy"
+    "prepare": "husky install"
   },
   "engines": {
     "npm": ">=7.0.0",

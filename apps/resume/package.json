@@ -14,16 +14,13 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch",
     "cypress": "cypress open",
-    "export": "next build && next export",
-    "static": "next build && next export && touch ./out/.nojekyll && echo 'resume.andreceasar.com' > ./out/CNAME",
-    "deploy": "gh-pages -d out -t true"
+    "export": "next build && next export"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@nextui-org/react": "^1.0.0-beta.12",
     "core": "*",
-    "gh-pages": "^6.1.1",
     "kbar": "^0.1.0-beta.40",
     "next": "13.5.6",
     "next-themes": "^0.2.1",
