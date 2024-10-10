@@ -2,6 +2,35 @@
   "title": "Work Experience",
   "list": [
     {
+      "name": "Abies",
+      "position": "Founder",
+      "startDate": "2024.07",
+      "endDate": "",
+      "description": "Smart herd management.",
+      "projects": [
+        {
+          "title": {
+            "text": "Product",
+            "githubLink": null,
+            "otherLink": "https://abies.andreceasar.com/"
+          },
+          "description": "Mobile application",
+          "startDate": "2020.08",
+          "endDate": "2021.03",
+          "which": [
+            "UX/UI design",
+            "mobile app development",
+            "asaas payment gateway integration",
+            "Azure OpenAI integration",
+            "REST API using Node Express",
+            "infrastructure using Cloud Computing",
+            "app landing page"
+          ],
+          "techStack": ["React Native", "Express", "JavaScript", "Css", "Html", "Sql"]
+        }
+      ]
+    },
+    {
       "name": "doSul Digital",
       "position": "Software Developer",
       "startDate": "2022.04",
@@ -131,9 +160,26 @@
           "which": [
             "API integration",
             "app pages",
-            "offline data display and progress saving"
+            "offline data display and progress saving",
+            "offline map navigation system"
           ],
           "techStack": ["React Native", "Php", "JavaScript", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Postex Express",
+            "githubLink": null,
+            "otherLink": "https://www.postexexpress.com.br/"
+          },
+          "description": "Delivery company web system",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "discount for pickup request from website",
+            "pickup and delivery report",
+            "bug fixes"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
@@ -211,6 +257,22 @@
             "bug fixes"
           ],
           "techStack": ["React Native", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Sixt",
+            "githubLink": null,
+            "otherLink": "https://sixtprepago.com/"
+          },
+          "description": "Car rental platform",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "landing page creation by the user",
+            "Pay on irrival rental",
+            "bug fixes"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
         },
         {
           "title": {
