@@ -2,78 +2,78 @@
   "title": "Skills",
   "list": [
     {
-      "name": "Soft skill",
+      "name": "Communication",
       "descriptions": [
-        "It's easy for me to express what I'm thinking in a clear way."
+        "Proven ability to convey complex ideas clearly and effectively, both verbally and in writing."
       ]
     },
     {
       "name": "HTML/CSS",
       "descriptions": [
-        "When I see a design or think of something I want to build it's clear to me how the markup and styling are gonna look."
+        "Proficient in translating designs into responsive and accessible web interfaces, with a keen eye for detail in markup and styling."
       ]
     },
     {
       "name": "SQL",
       "descriptions": [
-        "I can write from the simplest to the most complex queries, with subqueries and multiple joins."
+        "Experienced in crafting and optimizing queries, including subqueries and multiple joins, to efficiently retrieve and manipulate data."
       ]
     },
     {
       "name": "NextJs",
       "descriptions": [
-        "I know the nuances of having React rendered on the server and separating server and client Javascript code."
+        "In-depth understanding of server-side rendering and client-side JavaScript separation, enabling the development of high-performance React applications."
       ]
     },
     {
       "name": "React",
       "descriptions": [
-        "Fluid experience using it's structure to abstract problems."
+        "Adept at utilizing React's component-based architecture to develop scalable and maintainable web applications."
       ]
     },
     {
       "name": "React Native",
       "descriptions": [
-        "In adition to applying all my knowlege from React I am very familiar with it's peculiarities.",
-        "It's very clear to me the process of compiling and publishing an app to both App Store and Google Play Store."
+        "Skilled in leveraging React Native's capabilities to build cross-platform mobile applications.",
+        "Experienced in app compilation and publication on both App Store and Google Play Store."
       ]
     },
     {
       "name": "Php Slim",
       "descriptions": [
-        "I've written many REST APIs using php."
+        "Competent in developing RESTful APIs using PHP Slim, ensuring robust and scalable backend solutions."
       ]
     },
     {
       "name": "Wordpress",
       "descriptions": [
-        "I know how to install and serve wordpress using nginx.",
-        "I'm able to install plugins and themes, customize or create custom ones."
+        "Experienced in setting up and managing WordPress sites, including theme and plugin installation, customization, and development.",
+        "Able to configure Nginx for optimal performance."
       ]
     },
     {
       "name": "NodeJs/Express",
       "descriptions": [
-        "I'm confortable with using the knowledge I have from using javascript on the client on the server."
+        "Proficient in developing server-side applications with Node.js and Express, utilizing client-side JavaScript knowledge to create efficient and scalable services."
       ]
     },
     {
       "name": "Java",
       "descriptions": [
-        "I've written a REST API with a service to read from a RaspberryPi serial port."
+        "Familiar with Java programming, including the development of RESTful APIs and services interfacing with hardware components like Raspberry Pi serial ports."
       ]
     },
     {
       "name": "C/C++",
       "descriptions": [
-        "I've  written code to read, process and output data using the esp32 and arduino for IoT applications."
+        "Experienced in programming microcontrollers such as ESP32 and Arduino, focusing on IoT applications that require data processing and hardware interfacing."
       ]
     },
     {
       "name": "Deployment",
       "descriptions": [
-        "I have the knowledge of how to merge branches, resolving different types of conflicts.",
-        "Familiarity with linux, hosting and environment configuration."
+        "Knowledgeable in version control systems, particularly in merging branches and resolving conflicts.",
+        "Experienced with Linux environments, hosting configurations, and environment setup."
       ]
     }
   ]
