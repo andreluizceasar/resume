@@ -6,7 +6,7 @@ import { authorImage, authorName, favicon, resumeGAID, resumeHotjarID } from 'co
 import { resumeUrl } from '../../_config';
 import { data } from '../../_content/Header';
 
-const TITLE = `${authorName}`;
+const TITLE = `${authorName} - resume`;
 
 function isValid(value: any) {
   if (typeof value === 'string' && value.length > 0) return true;

@@ -231,6 +231,20 @@
         },
         {
           "title": {
+            "text": "JMarcon",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "ERP System",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "User file storage"
+          ],
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
             "text": "Organize Decorando",
             "githubLink": null,
             "otherLink": "https://organizedecorando.com/"

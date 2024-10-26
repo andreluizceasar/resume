@@ -36,7 +36,7 @@ export default function ResumeApp({ Component, pageProps }: AppProps) {
 function Title() {
   return (
     <Head>
-      <title>{`${authorName}`}</title>
+      <title>{`${authorName} - resume`}</title>
     </Head>
   );
 }
